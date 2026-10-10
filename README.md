@@ -1,2 +1,25 @@
-# My-First-website
-My first web development project 
+# My First Website 🌐
+
+Welcome to my first web development project!
+
+## 📌 About This Project
+
+This project is part of my journey into web development. I created this repository to learn how websites are organized and how to build my own web projects.
+
+## 🎯 Project Goals
+
+* Learn the basics of web development.
+* Practice writing and organizing code.
+* Improve my website development skills.
+
+## 🛠️ Technologies
+
+* HTML
+* CSS
+* JavaScript
+
+## 👩‍💻 Developer
+
+Hafza Murtaza
+
+GitHub: https://github.com/Hafza-developer

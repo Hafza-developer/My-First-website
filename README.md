@@ -18,6 +18,14 @@ This project is part of my journey into web development. I created this reposito
 * CSS
 * JavaScript
 
+## Features
+
+* Modern dark theme with gradient accents
+* Responsive design for desktop and mobile
+* Interactive mobile navigation
+* Skills and projects sections
+* Contact form with basic validation
+
 ## 👩‍💻 Developer
 
 Hafza Murtaza
